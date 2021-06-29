@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "code": "F-001",
+      "name": "Blueberry Cheesecake",
+      "image": "https://assets.epicurious.com/photos/579f8ec93a12dd9d56024065/master/pass/blueberry-cheesecake.jpg",
+      "price": 120,
+      "category": [
+        {
+          "categoryId": 1,
+          "categoryName": "Food"
+        },
+        {
+          "categoryId": 3,
+          "categoryName": "Sweets"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "code": "D-001",
+      "name": "Orange Juice",
+      "image": "https://image.freepik.com/free-photo/glass-orange-juice-person-squeezing-orange-it_181624-1070.jpg",
+      "price": 60,
+      "category": {
+        "categoryId": 2,
+        "categoryName": "Drinks"
+      }
+    },
+       {
+      "id": 3,
+      "code": "F-002",
+      "name": "Angus Beef Steak",
+      "image": "https://www.mychicagosteak.com/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/r/i/ribeye-cut-premium_1_7.jpg",
+      "price": 160,
+      "categories": [
+        {
+          "categoryId": 1,
+          "categoryName": "Food"
+        }
+      ]
+    },
+        {
+      "id": 4,
+      "code": "D-002",
+      "name": "Vanilla Twisted Cream",
+      "image": "https://truecoffee.truecorp.co.th/cache/large/product/17/nKjuUh4I1bbzXWr2tW3UddDAKzxjKsj6ydfQDH8L.jpeg",
+      "price": 90,
+      "categories": [
+        {
+          "categoryId": 2,
+          "categoryName": "Drinks"
+        },
+        {
+          "categoryId": 3,
+          "categoryName": "Sweets"
+        }
+      ]
+    }
+
+  ]
